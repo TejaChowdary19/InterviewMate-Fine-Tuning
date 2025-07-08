@@ -1,0 +1,4502 @@
+[
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: An AI engineer builds and maintains AI models for various applications."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: ReLU, sigmoid, and tanh are common activation functions."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Activation functions introduce non-linearity in models."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Computer vision is used in facial recognition and autonomous vehicles."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Vector databases store embeddings for fast similarity search."
+  },
+  {
+    "text": "Q: What are common activation functions?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: What is a neural network?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is the difference between CPU and GPU in training?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: GPUs parallelize computations for faster training vs. CPUs."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: Explain supervised vs. unsupervised learning.\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: Explain the bias-variance tradeoff.\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How do you prevent overfitting in models?\nA: Hyperparameters control training but aren't learned by the model."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Embeddings represent words in dense vector space."
+  },
+  {
+    "text": "Q: What is a confusion matrix?\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: What is transfer learning?\nA: Backpropagation adjusts weights using the gradient of the loss."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: Attention helps models focus on relevant parts of input."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: A neural network mimics the brain to find patterns in data."
+  },
+  {
+    "text": "Q: How does attention mechanism help transformers?\nA: Transfer learning uses a pre-trained model on a new task."
+  },
+  {
+    "text": "Q: What are embeddings in NLP?\nA: Gradient descent minimizes loss by updating weights iteratively."
+  },
+  {
+    "text": "Q: Explain precision, recall, and F1-score.\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: Supervised learning uses labeled data, unsupervised does not."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer?\nA: Bias-variance tradeoff is balancing underfitting and overfitting."
+  },
+  {
+    "text": "Q: How do recommendation systems work?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: What is a vector database used for?\nA: Precision measures correctness, recall measures completeness, F1 is the harmonic mean."
+  },
+  {
+    "text": "Q: What is the purpose of an activation function?\nA: Recommendation systems suggest items based on user behavior."
+  },
+  {
+    "text": "Q: How does backpropagation work?\nA: Fine-tuning adapts a pre-trained model to a new dataset."
+  },
+  {
+    "text": "Q: What are hyperparameters?\nA: A confusion matrix shows true/false positives/negatives."
+  },
+  {
+    "text": "Q: Describe a use case for computer vision.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  },
+  {
+    "text": "Q: Explain how gradient descent works.\nA: Use dropout, regularization, and more data to prevent overfitting."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Q: What programming languages should an AI engineer know?\nA: Python is essential, followed by C++, Java, and R depending on the domain."
+  },
+  {
+    "text": "Q: What is the role of an AI engineer in a product team?\nA: They build and deploy machine learning models that enhance product features or optimize internal systems."
+  },
+  {
+    "text": "Q: What frameworks are commonly used by AI engineers?\nA: TensorFlow, PyTorch, Scikit-learn, and Hugging Face Transformers are widely used."
+  },
+  {
+    "text": "Q: How do AI engineers evaluate model performance?\nA: They use metrics like accuracy, precision, recall, F1 score, and AUC-ROC depending on the task."
+  },
+  {
+    "text": "Q: What's the difference between data scientists and AI engineers?\nA: Data scientists analyze and model data, while AI engineers productionize and scale those models."
+  },
+  {
+    "text": "Q: What is model fine-tuning?\nA: It\u2019s the process of adapting a pre-trained model to a specific task using task-specific data."
+  },
+  {
+    "text": "Q: Why is vectorization important in AI?\nA: Vectorization speeds up computation and is essential for neural networks and similarity searches."
+  },
+  {
+    "text": "Q: What are transformer models?\nA: They are deep learning models designed to handle sequential data using self-attention mechanisms."
+  },
+  {
+    "text": "Q: What is inference latency?\nA: It's the time a model takes to generate a prediction after receiving an input."
+  },
+  {
+    "text": "Q: How do AI engineers use vector databases?\nA: For storing and querying high-dimensional embeddings in tasks like semantic search or retrieval-augmented generation."
+  }
+]
