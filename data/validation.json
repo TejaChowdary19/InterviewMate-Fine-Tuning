@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Explain how you would design a scalable machine learning system for real-time fraud detection."
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you choose between a decision tree, a random forest, and a gradient boosting machine? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "What is the difference between batch normalization and layer normalization? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time? (please elaborate with an example)"
+  },
+  {
+    "text": "Can you walk me through an end-to-end AI project you led? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "What's the difference between supervised, unsupervised, and reinforcement learning? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "Describe your experience with model deployment using Docker and Kubernetes. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you choose between a decision tree, a random forest, and a gradient boosting machine? (please elaborate with an example)"
+  }
+]

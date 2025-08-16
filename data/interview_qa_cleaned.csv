@@ -1,0 +1,801 @@
+text
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: Explain the purpose of Docker.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: Describe the CAP theorem.
+Answer: CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: Explain the concept of normalization in databases.
+Answer: Normalization organizes data to reduce redundancy and improve integrity by dividing tables and defining relationships."
+"Question: What is a virtual DOM in React?
+Answer: A virtual DOM is a lightweight copy of the actual DOM that React uses to optimize updates."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is the difference between SQL and NoSQL databases?
+Answer: SQL databases are structured and use tables, while NoSQL databases are unstructured and often use key-value or document formats."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What are microservices?
+Answer: Microservices are an architecture style where applications are composed of small, loosely coupled services."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: How does OAuth 2.0 work?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."
+"Question: Explain the role of indexes in databases.
+Answer: Indexes improve database query performance by providing fast access paths to data rows."
+"Question: What is a REST API?
+Answer: A REST API is an application programming interface that uses HTTP requests to GET, PUT, POST, and DELETE data."
+"Question: What is a deadlock and how can it be prevented?
+Answer: A deadlock is a situation where processes wait on each other indefinitely. Prevention involves resource ordering or timeouts."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is the difference between TCP and UDP?
+Answer: TCP is connection-oriented and reliable, while UDP is connectionless and faster but less reliable."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: How does DNS work?
+Answer: DNS translates domain names to IP addresses by querying a hierarchical system of servers."
+"Question: What is the difference between an abstract class and an interface?
+Answer: An abstract class can have implementations, an interface cannot. Interfaces support multiple inheritance."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: Explain the MVC architecture.
+Answer: MVC separates application into Model (data), View (UI), and Controller (logic) for organized code."
+"Question: What is a JOIN in SQL?
+Answer: A JOIN in SQL combines rows from two or more tables based on a related column between them."
+"Question: What is the use of the 'map' function in Python?
+Answer: The map function applies a given function to each item of an iterable and returns a list of results."
+"Question: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server."
+"Question: How do you secure a web application?
+Answer: Securing a web app involves HTTPS, input validation, authentication, authorization, and regular updates."

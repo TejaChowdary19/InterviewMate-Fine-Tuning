@@ -1,0 +1,47 @@
+[
+  {
+    "text": "How do you optimize inference speed in a deep learning model?"
+  },
+  {
+    "text": "Describe a situation where you had to debug a model that was underperforming in production. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "What's the difference between supervised, unsupervised, and reinforcement learning?"
+  },
+  {
+    "text": "What's the difference between supervised, unsupervised, and reinforcement learning? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you evaluate a generative model’s performance?"
+  },
+  {
+    "text": "What are some recent advancements in computer vision you find exciting?"
+  },
+  {
+    "text": "What are the trade-offs between training a model on GPUs versus TPUs? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "What are some recent advancements in computer vision you find exciting? (please elaborate with an example)"
+  },
+  {
+    "text": "What is the difference between batch normalization and layer normalization? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a situation where you had to debug a model that was underperforming in production."
+  },
+  {
+    "text": "What’s the role of vector embeddings in NLP pipelines?"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  }
+]

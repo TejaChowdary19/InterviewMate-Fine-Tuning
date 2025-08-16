@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Explain how you would design a scalable machine learning system for real-time fraud detection."
+  },
+  {
+    "text": "What is the difference between batch normalization and layer normalization?"
+  },
+  {
+    "text": "How do you choose between a decision tree, a random forest, and a gradient boosting machine?"
+  },
+  {
+    "text": "Describe a situation where you had to debug a model that was underperforming in production."
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model?"
+  },
+  {
+    "text": "What are the trade-offs between training a model on GPUs versus TPUs?"
+  },
+  {
+    "text": "Explain the role of attention mechanisms in transformer architectures."
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder?"
+  },
+  {
+    "text": "What strategies do you use to avoid data leakage during model training?"
+  },
+  {
+    "text": "Describe your experience with model deployment using Docker and Kubernetes."
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time?"
+  },
+  {
+    "text": "What's the difference between supervised, unsupervised, and reinforcement learning?"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework."
+  },
+  {
+    "text": "How would you evaluate a generative model\u2019s performance?"
+  },
+  {
+    "text": "What\u2019s the role of vector embeddings in NLP pipelines?"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it."
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline?"
+  },
+  {
+    "text": "What are some recent advancements in computer vision you find exciting?"
+  },
+  {
+    "text": "Can you walk me through an end-to-end AI project you led?"
+  },
+  {
+    "text": "How would you fine-tune a large language model like GPT or BERT for a specific domain?"
+  },
+  {
+    "text": "What\u2019s the role of vector embeddings in NLP pipelines? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you evaluate a generative model\u2019s performance? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain how you would design a scalable machine learning system for real-time fraud detection. (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "What are the trade-offs between training a model on GPUs versus TPUs? (please elaborate with an example)"
+  },
+  {
+    "text": "Can you walk me through an end-to-end AI project you led? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "What are the trade-offs between training a model on GPUs versus TPUs? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "Can you walk me through an end-to-end AI project you led? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you choose between a decision tree, a random forest, and a gradient boosting machine? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "What are some recent advancements in computer vision you find exciting? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time? (please elaborate with an example)"
+  },
+  {
+    "text": "What strategies do you use to avoid data leakage during model training? (please elaborate with an example)"
+  },
+  {
+    "text": "What are some recent advancements in computer vision you find exciting? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "How would you evaluate a generative model\u2019s performance? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you evaluate a generative model\u2019s performance? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "What strategies do you use to avoid data leakage during model training? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you evaluate a generative model\u2019s performance? (please elaborate with an example)"
+  },
+  {
+    "text": "What are the trade-offs between training a model on GPUs versus TPUs? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a situation where you had to debug a model that was underperforming in production. (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the role of attention mechanisms in transformer architectures. (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "What is the difference between batch normalization and layer normalization? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a situation where you had to debug a model that was underperforming in production. (please elaborate with an example)"
+  },
+  {
+    "text": "Can you walk me through an end-to-end AI project you led? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you choose between a decision tree, a random forest, and a gradient boosting machine? (please elaborate with an example)"
+  },
+  {
+    "text": "What are some recent advancements in computer vision you find exciting? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe your experience with model deployment using Docker and Kubernetes. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe your experience with model deployment using Docker and Kubernetes. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "What strategies do you use to avoid data leakage during model training? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "What's the difference between supervised, unsupervised, and reinforcement learning? (please elaborate with an example)"
+  },
+  {
+    "text": "What is the difference between batch normalization and layer normalization? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe your experience with model deployment using Docker and Kubernetes. (please elaborate with an example)"
+  },
+  {
+    "text": "What\u2019s the role of vector embeddings in NLP pipelines? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain how you would design a scalable machine learning system for real-time fraud detection. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "Describe a time you had to convince your team to adopt a new AI tool or framework. (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the role of attention mechanisms in transformer architectures. (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "What's the difference between supervised, unsupervised, and reinforcement learning? (please elaborate with an example)"
+  },
+  {
+    "text": "Can you walk me through an end-to-end AI project you led? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "What strategies do you use to avoid data leakage during model training? (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you monitor and retrain a deployed AI model over time? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain the vanishing gradient problem and how to resolve it. (please elaborate with an example)"
+  },
+  {
+    "text": "How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you optimize inference speed in a deep learning model? (please elaborate with an example)"
+  },
+  {
+    "text": "What is the difference between batch normalization and layer normalization? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example)"
+  },
+  {
+    "text": "What\u2019s the role of vector embeddings in NLP pipelines? (please elaborate with an example)"
+  },
+  {
+    "text": "How do you choose between a decision tree, a random forest, and a gradient boosting machine? (please elaborate with an example)"
+  },
+  {
+    "text": "Explain how you would design a scalable machine learning system for real-time fraud detection. (please elaborate with an example)"
+  },
+  {
+    "text": "What strategies do you use to avoid data leakage during model training? (please elaborate with an example)"
+  }
+]
