@@ -1,0 +1,19 @@
+[
+  {
+    "input": "What skills should a data engineer have?",
+    "expected": "A data engineer should have skills in SQL, data warehousing, ETL, Python, and big data tools like Spark."
+  },
+  {
+    "input": "How would you design a data pipeline?",
+    "expected": "A data pipeline includes data ingestion, transformation, validation, and loading steps using tools like Apache Airflow and Spark."
+  },
+  {
+    "input": "Give me tips for a data engineering interview.",
+    "expected": "Review data structures, system design, SQL queries, and practice explaining data pipeline architecture."
+  },
+  {
+    "input": "What are the differences between Spark and Hadoop?",
+    "expected": "Spark processes data in-memory and is faster, while Hadoop writes intermediate results to disk and is more fault-tolerant."
+  }
+]
+

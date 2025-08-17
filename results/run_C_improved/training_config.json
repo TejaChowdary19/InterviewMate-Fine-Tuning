@@ -1,0 +1,22 @@
+{
+  "run_name": "run_C_improved",
+  "model_name": "tiiuae/falcon-rw-1b",
+  "lora_r": 2,
+  "lora_alpha": 4,
+  "target_modules": [
+    "query_key_value"
+  ],
+  "lora_dropout": 0.05,
+  "max_length": 256,
+  "num_epochs": 5,
+  "batch_size": 1,
+  "gradient_accumulation_steps": 4,
+  "learning_rate": 5e-05,
+  "weight_decay": 0.01,
+  "warmup_steps": 50,
+  "eval_steps": 25,
+  "logging_steps": 10,
+  "save_steps": 25,
+  "save_total_limit": 3,
+  "seed": 42
+}

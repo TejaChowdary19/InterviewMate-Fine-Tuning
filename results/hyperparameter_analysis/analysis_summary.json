@@ -1,0 +1,18 @@
+{
+  "total_runs": 3,
+  "hyperparameter_ranges": {
+    "learning_rate": {
+      "min": 5e-05,
+      "max": 0.0002
+    },
+    "lora_r": {
+      "min": 2,
+      "max": 8
+    },
+    "lora_alpha": {
+      "min": 4,
+      "max": 16
+    }
+  },
+  "best_configuration": null
+}

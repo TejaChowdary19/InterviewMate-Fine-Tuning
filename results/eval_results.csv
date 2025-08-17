@@ -1,0 +1,76 @@
+question,expected,predicted,bleu_score,exact_match
+How do you optimize inference speed in a deep learning model?,How do you optimize inference speed in a deep learning model?,"Image copyright Reuters
+Google Maps has been the most popular map app in the US since its launch in April.
+Launching on the iOS app on 2 October, the app allows users to access maps using keystrokes.
+
+Google Maps allows third-party applications to access user data without exposing passwords, using algorithms like mark-and-sweep.
+Users can also access maps using keywords like ""user,"" ""map,"" ""userdata,"" and ""data.""
+
+Google Maps uses cookies to improve user experience. Users can change their settings using a link in the app.
+Users can also access maps using API requests.
+: How does garbage collection work in Google",0.002352256366585565,0
+Describe a situation where you had to debug a model that was underperforming in production. (please elaborate with an example),Describe a situation where you had to debug a model that was underperforming in production. (please elaborate with an example),"Abstract: The MVC architecture addresses two main paths: defining interfaces and defining relationships. MVC separates application into Model (data), View (UI), and Controller (logic) for organized code. MVC separates application into Model (data), View (UI), and Controller (logic) for organized code.
+Keywords: MVC, Model, and Controller
+Introduction MVC separates application into Model (data), View (UI), and Controller (logic) for organized code. MVC separates application into Model (data), View (UI), and Controller (logic) for organized code. MVC",0.0,0
+How do you optimize inference speed in a deep learning model? (please elaborate with an example),How do you optimize inference speed in a deep learning model? (please elaborate with an example),"I'm a user of the Docker API. I use it to:
+Create applications: Run commands on the server
+Create databases: Run commands on the client
+Install dependencies: Run commands on the server
+Create access tokens: Access tokens are used to access applications.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment.
+Answer: Docker packages applications into containers that include dependencies, allowing consistent deployment. Docker packages applications into containers that include regular updates, allowing consistent deployment.
+Answer: Docker packages applications into containers that include regular updates, allowing consistent deployment. Docker packages applications into containers that include regular updates, allowing consistent deployment",0.0017521057199848767,0
+"What's the difference between supervised, unsupervised, and reinforcement learning?","What's the difference between supervised, unsupervised, and reinforcement learning?",": How do you implement pagination in a REST API?
+Answer: Pagination splits results into pages using parameters like page number and size in API requests. Pagination splits results into pages using parameters like page number and size in API requests. Learn more about pagination in API requests.
+Answer: Pagination splits results into pages using parameters like page number and size in API requests. Pagination splits results into pages using parameters like page number and size in API requests. Learn more about pagination in API requests.
+Answer: Pagination splits results into pages using parameters like page number and size in API requests. Learn more about pagination in API requests.",0.0016543028803438341,0
+"What's the difference between supervised, unsupervised, and reinforcement learning? (please elaborate with an example)","What's the difference between supervised, unsupervised, and reinforcement learning? (please elaborate with an example)","Why is OAuth 2.0 allowed?
+Answer: OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens. Access tokens are used to access applications without exposing passwords, using access tokens. OAuth 2.0 allows third-party applications to access user resources without exposing passwords, using access tokens. CAP theorem states a distributed system can only provide two out of three: Consistency, Availability, and Partition tolerance. CAP theorem states a distributed system cannot provide two out of three: Consistency, Availability, and Partition tolerance. CAP theorem states a distributed system cannot",0.001987059422923411,0
+How do you optimize inference speed in a deep learning model? (please elaborate with an example),How do you optimize inference speed in a deep learning model? (please elaborate with an example),"CORS: How do you handle HTTP requests?
+Answer: HTTP requests are handled by setting appropriate headers on the server.
+Answer: HTTP requests are handled by setting appropriate headers on the server.
+Answer: HTTP requests are handled by setting appropriate headers on the server.
+Answer: HTTP requests are handled by setting appropriate headers on the server. Learn more about HTTP requests.
+Answer: HTTP requests are handled by setting appropriate headers on the server. Learn more about HTTP requests.
+How do you handle HTTP requests? (please elaborate: How do you handle HTTP requests? (please elaborate: How do you handle HTTP requests? (please elaborate",0.011123133604612975,0
+How would you evaluate a generative model’s performance?,How would you evaluate a generative model’s performance?,": What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the client. Learn more about how to handle it here.
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the client. Learn more about how to handle it here.
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the client. Learn more about how to handle it",0.0018798639730209284,0
+What are some recent advancements in computer vision you find exciting?,What are some recent advancements in computer vision you find exciting?,"Why do you use CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the client. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the client. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled",0.0014881650601031944,0
+What are the trade-offs between training a model on GPUs versus TPUs? (please elaborate with an example),What are the trade-offs between training a model on GPUs versus TPUs? (please elaborate with an example),"In the wake of the tragic shooting death of a 17-year-old girl in a Newtown, Conn., school on Dec. 2, 2015, the parents of the dead teenager expressed their outrage.
+Interested in ? Add as an interest to stay up to date on the latest news, video, and analysis from ABC News. Add Interest
+The parents of the dead teen, Elizabeth Paquin, released a statement on Twitter: ""We are outraged by the tragic death of Elizabeth Paquin, a 17-year-old girl. She was a wonderful young girl. She was a wonderful teacher and a wonderful person.""",0.0028442118557039675,0
+How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example),How do you manage feature engineering in an automated ML pipeline? (please elaborate with an example),"Image copyright Thinkstock
+A report into the use of virtual reality in healthcare failed to identify a single contributor to virtual reality's rise in popularity.
+The virtual reality (VR) headset allows users to experience virtual reality without having to use a physical body part.
+Researchers compared how virtual reality uses virtual reality to a traditional body part.
+Virtual reality is a virtual reality environment where objects are placed in virtual spaces.
+In virtual reality, objects are composed of objects that are physically present but do not move.
+Virtual reality can be used to:
+Assign virtual objects to virtual environments
+Access virtual resources
+Control access to resources
+Control access",0.0019857831650453754,0
+What are some recent advancements in computer vision you find exciting? (please elaborate with an example),What are some recent advancements in computer vision you find exciting? (please elaborate with an example),"When: 2:00 PM – 8:00 PM
+Where: Museum of Modern Art
+Open: 2:00 PM – 8:00 PM
+How does garbage collection work in Java?
+Answer: Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep. Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep. Garbage collection in Java automatically deletes unused objects to free memory, using algorithms like mark-and-sweep.
+Answer: Garbage collection in Java automatically deletes unused objects to free memory",0.0022092558446917794,0
+What is the difference between batch normalization and layer normalization? (please elaborate with an example),What is the difference between batch normalization and layer normalization? (please elaborate with an example),"Get daily updates directly to your inbox Subscribe Thank you for subscribing See our privacy notice Could not subscribe, try again later Invalid Email:
+AUGUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST: AUST",0.0,0
+Describe a situation where you had to debug a model that was underperforming in production.,Describe a situation where you had to debug a model that was underperforming in production.,"SAN JOSE, Calif. (AP) — A San Jose police officer was dead after a confrontation with a suspect at a Wal-Mart parking lot on Friday.
+The officer, identified by the initials MPD, responded to a call from a person inside the store about a man who was threatening to shoot a store employee.
+Officers responded to a report of a person inside the store, where a man attempted to break into the store. MPD said the man started throwing objects at officers and throwing them.
+The officer was transported to a local hospital, where he died.
+: Officer shot in fatal confrontation with suspect in Wal-Mart parking",0.0026382123089273286,0
+What’s the role of vector embeddings in NLP pipelines?,What’s the role of vector embeddings in NLP pipelines?,"TBD: What is CORS and how do you handle it?
+Answer: CORS is a browser security feature. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled by setting appropriate headers on the server. It is handled by using appropriate headers on the server. It is handled by using appropriate headers on the server. It is handled by using appropriate headers on the server. It is handled by using appropriate headers on the server. It is handled by using appropriate headers on the server. It is handled by using appropriate headers on the server. It is handled by using appropriate headers on the",0.0015531565012505445,0
+How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example),How would you explain backpropagation to a non-technical stakeholder? (please elaborate with an example),"Mumbai: A team of scientists has found that regular menstrual periods are associated with lower risk of breast cancer in women.
+The findings are based on a series of observational studies that use data from the Centers for Disease Control and Prevention (CDC).
+The results: Regular periods are associated with a lower risk of developing breast cancer in women, while regular periods are associated:
+A: Regular periods are associated with a lower risk of developing breast cancer in women, while regular periods are associated:
+B: Regular periods are associated with a lower risk of developing breast cancer in women, while regular periods are:
+The researchers analyzed data",0.002004607858648269,0

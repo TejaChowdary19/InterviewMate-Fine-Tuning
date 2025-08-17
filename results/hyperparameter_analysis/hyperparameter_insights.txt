@@ -1,0 +1,11 @@
+InterviewMate Hyperparameter Analysis Insights
+==================================================
+
+📈 Learning rate range: 5.00e-05 to 2.00e-04
+🔧 LoRA configurations tested: r=[np.int64(8), np.int64(4), np.int64(2)], alpha=[np.int64(16), np.int64(8), np.int64(4)]
+
+💡 Recommendations:
+   • Test learning rates between 1e-5 and 5e-4
+   • Experiment with LoRA r values: 2, 4, 8, 16
+   • Consider longer training with early stopping
+   • Validate on larger test sets
